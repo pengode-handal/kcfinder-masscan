@@ -1,3 +1,7 @@
+#Copyright ©Kenzawa/Bahwa
+#Please if you respect me then don't recode
+#Thx From author
+
 import certifi
 import urllib3
 import argparse
